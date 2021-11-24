@@ -33,12 +33,19 @@
 - Testing
 - Deployment (GUI)
   
-  # DATASET :
+  ### DATASET :
 - The data(.csv) which we have extracted/Scraped from many websites.
 - The  dataset  mainly contains 2 columns which are Questions and Answers.
-  ### TEXT PRE PROCESSING and EDA :
-  
+  ## TEXT PRE PROCESSING and EDA :
+* I performed EDA and visulization on teh dataset such as 
+tokenisation,normalisation,removing stop words,stemming,limatisation.
 
+* I did visulization using Wordcloud
+check the relation of the words using bi-grame and tri-gram
+  
+* After performing all the EDA and Pre Processing methods the dataset with a new column as question clean.
+
+  # MODEL BUILDING :
   
   
   
