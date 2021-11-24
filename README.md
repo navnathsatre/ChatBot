@@ -1,5 +1,45 @@
 # ChatBot
-To build the chatbot for Data Science interview "question &amp; answer "
-
-
 <p align="center"><img height = 500 width = 350 src = https://github.com/navnathsatre/ChatBot/blob/efaa4024a90a5013c37ff69b3d97bd55e2ae96b5/ChatBot_GIF.gif>
+
+  # Business Problem :
+  Unavailability of chat option to get your data science interview questions with your answers, for a one stop solution on your seeking Data Science interview answers for your questions
+  
+  # Objective :
+  To create a Chat bot for providing  seamless responses to Data Science interview questions with an appropriate answer
+  
+  ## What is Chatbot?
+  -- A chatbot is a computer program governed by a set of pre-defined rules or artificial intelligence that grants it the capabilities to communicate with and like a human.<br/>
+  -- A set of commands is fed into the system that makes it smart enough to interpret and react to user-inputted queries.
+
+  # PLANNING :
+- Understanding Business problem & objective
+- Defining Scope & Methodology
+- Data gathering (“Web Scarping”)
+- Text Pre-processing on data
+- EDA
+- Model Building
+- Model Evaluation 
+- Model Deployment (GUI)
+# SCOPE :
+- Chatbot Name:- “Sarthi”
+- Forming conversation using text only.
+- Based on limited Topics in Data Science such as Supervise Learning and general.
+- We have collected about 700+ Questions and Answers by web scraping.
+- We are going with Rule-Based(Retrieval)Chatbot.
+# CHATBOT  METHODOLOGY :
+- Defining the Chatbot’s Purpose and Managing Expectations
+- Defining the Chatbot’s Personality( assist)
+- Designing the User Journey and Conversation
+- Testing
+- Deployment (GUI)
+  
+  # DATASET :
+- The data(.csv) which we have extracted/Scraped from many websites.
+- The  dataset  mainly contains 2 columns which are Questions and Answers.
+  ### TEXT PRE PROCESSING and EDA :
+  
+
+  
+  
+  
+  
