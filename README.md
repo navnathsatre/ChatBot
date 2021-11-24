@@ -46,7 +46,23 @@ check the relation of the words using bi-grame and tri-gram
 * After performing all the EDA and Pre Processing methods the dataset with a new column as question clean.
 
   # MODEL BUILDING :
+- We have extracted important word from “Question” and “User input”.
+- we had created strings of important word for both.
+- we find the similarity between these strings and for that we had used “Ratio” method.
+- we had considered only those which had more than 0.90 similarity score.
+
+## DEPLOYMENT :
+  The deployement of chatbot is been done in GUI to make it moe interactive.
+  
+### CHALLENGES FACED 
+ 1.Not all websites/local browsers are giving the permission to scrap their data.
+2. Even after scraping the data form websites we got lot of unwanted text/data which is not useful for us.
+
+### OVERCAME BY 
+1. For permission issue we have used header agent to get permission from our local browsers.
+2. For next issue we have used the source code the websites and only selected the tags of the data which we want to scrap.
   
   
-  
-  
+# __Business benifit:-__ <br/>
+  In furture we will be adding or trying to cover most of the topices in our chatbot
+we will be building chatbot into .exe file so that it can be used in offline as well.
